@@ -16,6 +16,6 @@
 - `F1` – Custom Quit Message (with prompt)
 
 ### 🚗 Vehicle & Job Functions
-- `XButton1` – Vehicle Repair
-- `XButton2` – Auto Meth Buy Sequence
+- `Side button 1` – Vehicle Repair
+- `Side button 2` – Auto Meth Buy Sequence
 
