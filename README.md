@@ -13,7 +13,7 @@
 
 ### 🛠️ Utilities
 - `F12` – Fast Quit (Kill FiveM processes)
-- `F1` – Custom Quit Message (with prompt)
+- `F1` – Custom Quit Message (with prompt use only in non exclusive Full Screen )
 
 ### 🚗 Vehicle & Job Functions
 - `Side button 1` – Vehicle Repair
