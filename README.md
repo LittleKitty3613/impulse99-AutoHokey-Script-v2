@@ -19,4 +19,5 @@
 - `Side button 1` – Vehicle Repair
 - `Side button 2` – Auto Meth Buy Sequence
 
-### 🧩 Misc * **Crash Log Sending Prevention** – Prevents FiveM from sending crash reports to Impulse99
+### 🧩 Misc
+**Crash Log Sending Prevention** – Prevents FiveM from sending crash reports to Impulse99
